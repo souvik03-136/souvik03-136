@@ -25,7 +25,6 @@ I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore,
 
 
 **Developer Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,7 +42,6 @@ I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore,
 
 ### 📊 GitHub Stats
 ![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical)
 
 
