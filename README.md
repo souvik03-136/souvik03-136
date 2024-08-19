@@ -1,7 +1,7 @@
 # Hi, I'm Souvik Mahanta! 👋
 
-### AIML & Backend Developer | Security Enthusiast
-_Pre-Final Year B.Tech Student at Vellore Institute of Technology, Vellore_
+### 👨‍💻 About Me
+I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore, specializing in AI/ML, backend development, and cybersecurity. Passionate about programming, security, and creating innovative solutions.
 
 ---
 
@@ -19,8 +19,10 @@ _Pre-Final Year B.Tech Student at Vellore Institute of Technology, Vellore_
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9D72A2?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/Bokeh-9B2A3E?style=for-the-badge&logo=bokeh&logoColor=white)
+
 
 **Developer Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,9 +32,6 @@ _Pre-Final Year B.Tech Student at Vellore Institute of Technology, Vellore_
 
 ---
 
-### 🔧 Currently Working On
-- **Demand Forecasting Model:** Predicting low stock and generating reorder notifications.
-- **OAuth Integration:** Implementing authentication endpoints for secure access.
 
 ---
 
@@ -43,15 +42,10 @@ _Pre-Final Year B.Tech Student at Vellore Institute of Technology, Vellore_
 ---
 
 ### 📊 GitHub Stats
-![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik-mahanta&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-mahanta&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical)
 
----
-
-### 🌟 Featured Projects
-- **[Project Name](#):** Brief description of the project with key highlights.
-- **[Another Project](#):** Brief description of the project with key highlights.
 
 ---
 
