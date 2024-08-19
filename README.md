@@ -6,8 +6,6 @@ I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore,
 ---
 
 ### 🚀 Key Skills
-
-**Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
