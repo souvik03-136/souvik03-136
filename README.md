@@ -1,4 +1,4 @@
-# Hi, I'm Souvik Mahanta! 👋
+# Hi, I'm Souvik Mahanta! 🐧
 
 ### 👨‍💻 About Me
 I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore, specializing in AI/ML, backend development, and cybersecurity. Passionate about programming, security, and creating innovative solutions.
