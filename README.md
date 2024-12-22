@@ -45,4 +45,6 @@ I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore,
 ---
 
 Thanks for stopping by! Feel free to connect or reach out if you have any questions or opportunities for collaboration.
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square)
