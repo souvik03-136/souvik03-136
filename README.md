@@ -33,25 +33,23 @@ I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore,
 
 ---
 
-### 📫 Get In Touch  
-- **LinkedIn:** [Souvik Mahanta](https://www.linkedin.com/in/souvik-mahanta)  
-- **Email:** [souvikmahanta2003@gmail.com](mailto:souvikmahanta2003@gmail.com)  
+### 📫 Get In Touch
+- **LinkedIn:** [Souvik Mahanta](https://www.linkedin.com/in/souvik-mahanta)
+- **Email:** [souvikmahanta2003@gmail.com](mailto:souvikmahanta2003@gmail.com)
 
 ---
 
-### 📊 GitHub Stats  
-![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical)  
+### 📊 GitHub Stats
+![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical)
 
 ---
 
-> "Coding is not just about writing code; it's about solving problems and creating opportunities." - Souvik Mahanta  
+> "Coding is not just about writing code; it's about solving problems and creating opportunities." - Souvik Mahanta
 
 ---
 
-Thanks for stopping by! Feel free to connect or reach out if you have any questions or opportunities for collaboration.  
+Thanks for stopping by! Feel free to connect or reach out if you have any questions or opportunities for collaboration.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square)  
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square)
