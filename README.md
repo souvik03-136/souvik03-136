@@ -54,7 +54,7 @@
 
 <div align="center">
   
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsouvik03-136&countColor=%23263759&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?logo=github&style=flat-square)](https://github.com/souvik03-136)
   
 </div>
