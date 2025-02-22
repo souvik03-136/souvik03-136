@@ -45,7 +45,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-mahanta)
-[![souvikmahanta2003@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikmahanta2003@gmail.com)
+[![Email](https://img.shields.io/badge/souvikmahanta2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikmahanta2003@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view)
 
 </div>
