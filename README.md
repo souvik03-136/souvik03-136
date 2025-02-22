@@ -11,36 +11,54 @@
 
 ---
 
-## 🛠️ Tech Stack Galaxy
+## 🚀 What I'm Currently Working On
+
+> Want to know what I'm currently working on?  
+> Check out **[My Projects](https://github.com/souvik03-136?tab=repositories)** for the latest updates.  
+>  
+> *PS: I haven't been super active on some repositories recently, but I'm planning to work back on AI/ML projects once I wrap up my current backend and security implementations!*  
+>  
+> *Thanks for your patience and support! 🚀*  
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Orbit**          | **Technologies**                                                                                                                                                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**       | <img src="https://skillicons.dev/icons?i=py,go" width="150"> |
-| **Frameworks**      | <img src="https://skillicons.dev/icons?i=flask,django" width="150"> |
-| **Databases**       | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" width="200"> |
-| **AI/ML**           | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat) ![Bokeh](https://img.shields.io/badge/Bokeh-1F77B4?style=flat) |
-| **DevOps**          | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp" width="200"> |
+| **Category**       | **Technologies** |
+|--------------------|-----------------|
+| **Languages**      | ![Python](https://skillicons.dev/icons?i=py) ![Go](https://skillicons.dev/icons?i=go) |
+| **Frameworks**     | ![Flask](https://skillicons.dev/icons?i=flask) ![Django](https://skillicons.dev/icons?i=django) |
+| **Databases**      | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| **AI/ML**         | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn) |
+| **DevOps**        | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) |
 
 </div>
 
 ---
 
-## 📊 GitHub Nebula
+## 📊 GitHub Insights  
 
 <div align="center">
 
 [![GitHub 3D Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![3D Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 ---
 
-## 🌌 Connect With Me
+## 🌟 Achievements  
+
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
+
+---
+
+## 📬 Connect With Me  
 
 <div align="center">
 
