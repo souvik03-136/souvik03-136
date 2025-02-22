@@ -15,13 +15,13 @@
 
 <div align="center">
   
-| **Orbit**          | **Technologies**                                                                                                                                                                                                                                                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**       | <img src="https://skillicons.dev/icons?i=py,go,js,cpp,java" width="200">                                                                                                                                                                                                                                                                        |
-| **AI/ML**           | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy,keras" width="200">                                                                                                                                                                                                                                                    |
-| **Databases**       | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" width="200">                                                                                                                                                                                                                                                   |
-| **DevOps**          | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" width="200">                                                                                                                                                                                                                                                         |
-| **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" width="200">                                                                                                                                                                                                                                                          |
+| **Orbit**          | **Technologies**                                                                                                                                                                                                                      |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**       | <img src="https://skillicons.dev/icons?i=py,go" width="150"> |
+| **Frameworks**      | <img src="https://skillicons.dev/icons?i=flask,django" width="150"> |
+| **Databases**       | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" width="200"> |
+| **AI/ML**           | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat) ![Bokeh](https://img.shields.io/badge/Bokeh-1F77B4?style=flat) |
+| **DevOps**          | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp" width="200"> |
 
 </div>
 
