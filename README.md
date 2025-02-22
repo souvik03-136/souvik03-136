@@ -1,55 +1,75 @@
-# Hi, I'm Souvik Mahanta! 🐧
+<h1 align="center">Hi, I'm Souvik Mahanta! 🐧</h1>
+<h3 align="center">Pre-final year B.Tech student | AI/ML | Backend Dev | Cybersecurity Enthusiast</h3>
 
-### 👨‍💻 About Me
-I'm a pre-final year B.Tech student at Vellore Institute of Technology, Vellore, specializing in AI/ML, backend development, and cybersecurity. Passionate about programming, security, and creating innovative solutions.
-
----
-
-### 🚀 Key Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9D72A2?style=for-the-badge&logo=seaborn&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-9B2A3E?style=for-the-badge&logo=bokeh&logoColor=white)
-
-**Developer Tools:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer;🔥+AI/ML+Enthusiast;🛡️+Cybersecurity+Researcher;🎯+CTF+Competitor;👨‍💻+Open+Source+Contributor" />
+</p>
 
 ---
 
-### 📄 Resume  
-📜 [View My Resume](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view?usp=sharing)  
+### 🚀 **About Me**
+- 🎓 **Pre-final year B.Tech student** at **VIT Vellore**
+- 💡 Passionate about **AI/ML, Backend Development, and Cybersecurity**
+- 🏆 **CTF player** with a **Global Rank of 900 on Hack The Box**
+- 🎭 Core team member for **Riviera 2024**
+- 🎤 Mentored **Spotify Collaboration Project**
+- 🔍 Exploring **Blockchain & OSI Model Simulation**
 
 ---
 
-### 📫 Get In Touch
-- **LinkedIn:** [Souvik Mahanta](https://www.linkedin.com/in/souvik-mahanta)
-- **Email:** [souvikmahanta2003@gmail.com](mailto:souvikmahanta2003@gmail.com)
+## **🚀 Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,flask,django,mongodb,mysql,postgres,firebase,tensorflow,pandas,numpy,scikit-learn,seaborn,bokeh,git,github,postman,docker" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical)
+## **🎖️ Achievements & Stats**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souvik03-136&theme=radical&no-bg=true&no-frame=true&column=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&count_private=true&theme=radical&hide=prs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvik03-136&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=souvik03-136&theme=redical" />
+</div>
 
 ---
 
-> "Coding is not just about writing code; it's about solving problems and creating opportunities." - Souvik Mahanta
+## **🔥 3D Contributions**
+<p align="center">
+  <img src="https://github.com/souvik03-136/souvik03-136/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-Thanks for stopping by! Feel free to connect or reach out if you have any questions or opportunities for collaboration.
+## **📄 Resume**
+📜 **[View My Resume](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view?usp=sharing)**  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square)
+
+## **📫 Get In Touch**
+<p align="center">
+  <a href="https://www.linkedin.com/in/souvik-mahanta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:souvikmahanta2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## **💖 Support Me**
+If you like my work, consider **starring** ⭐ the repository! It really motivates me! 😃  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square" />
+</p>
+
+---
+> **"Coding is not just about writing code; it's about solving problems and creating opportunities."** - *Souvik Mahanta*
