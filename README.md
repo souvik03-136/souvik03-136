@@ -1,75 +1,82 @@
-<h1 align="center">Hi, I'm Souvik Mahanta! 🐧</h1>
-<h3 align="center">Pre-final year B.Tech student | AI/ML | Backend Dev | Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer;🔥+AI/ML+Enthusiast;🛡️+Cybersecurity+Researcher;🎯+CTF+Competitor;👨‍💻+Open+Source+Contributor" />
-</p>
-
----
-
-### 🚀 **About Me**
-- 🎓 **Pre-final year B.Tech student** at **VIT Vellore**
-- 💡 Passionate about **AI/ML, Backend Development, and Cybersecurity**
-- 🏆 **CTF player** with a **Global Rank of 900 on Hack The Box**
-- 🎭 Core team member for **Riviera 2024**
-- 🎤 Mentored **Spotify Collaboration Project**
-- 🔍 Exploring **Blockchain & OSI Model Simulation**
-
----
-
-## **🚀 Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,flask,django,mongodb,mysql,postgres,firebase,tensorflow,pandas,numpy,scikit-learn,seaborn,bokeh,git,github,postman,docker" />
-</p>
-
----
-
-## **🎖️ Achievements & Stats**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souvik03-136&theme=radical&no-bg=true&no-frame=true&column=6" />
+  <img src="https://raw.githubusercontent.com/souvik03-136/souvik03-136/main/assets/3d-banner.gif" alt="3D Banner" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&count_private=true&theme=radical&hide=prs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvik03-136&theme=radical" />
-</div>
+<h1 align="center">⚡️ Souvik Mahanta ⚡️</h1>
+<h3 align="center">AI/ML Developer | Backend Architect | Security Enthusiast</h3>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=souvik03-136&theme=redical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=🚀+Building+Intelligent+Systems;🔒+Securing+Digital+Frontiers;💻+Crafting+Scalable+Solutions" alt="Typing Animation" />
 </div>
 
 ---
 
-## **🔥 3D Contributions**
-<p align="center">
-  <img src="https://github.com/souvik03-136/souvik03-136/raw/output/github-contribution-grid-snake.svg" />
-</p>
+## 🛠️ Tech Stack Galaxy
+
+<div align="center">
+  
+| **Orbit**          | **Technologies**                                                                                                                                                                                                                                                                                                                                 |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**       | <img src="https://skillicons.dev/icons?i=py,go,js,cpp,java" width="200">                                                                                                                                                                                                                                                                        |
+| **AI/ML**           | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy,keras" width="200">                                                                                                                                                                                                                                                    |
+| **Databases**       | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" width="200">                                                                                                                                                                                                                                                   |
+| **DevOps**          | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" width="200">                                                                                                                                                                                                                                                         |
+| **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" width="200">                                                                                                                                                                                                                                                          |
+
+</div>
 
 ---
 
-## **📄 Resume**
-📜 **[View My Resume](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view?usp=sharing)**  
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| **NeuralGuard** | AI-Powered Cybersecurity Platform | ![Python](https://img.shields.io/badge/Python-3D3D3D?style=flat&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) | [![Demo](https://img.shields.io/badge/View-Demo-00ADD8?style=flat&logo=heroku)](https://example.com) |
+| **CodePulse** | Real-time Code Collaboration | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis) | [![Demo](https://img.shields.io/badge/View-Demo-FF6C37?style=flat&logo=netlify)](https://example.com) |
+
+</div>
 
 ---
 
-## **📫 Get In Touch**
-<p align="center">
-  <a href="https://www.linkedin.com/in/souvik-mahanta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:souvikmahanta2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📊 GitHub Nebula
+
+<div align="center">
+  
+[![GitHub 3D Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![3D Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 
 ---
 
-## **💖 Support Me**
-If you like my work, consider **starring** ⭐ the repository! It really motivates me! 😃  
+## 🌌 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square" />
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-mahanta)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikmahanta2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+
+</div>
 
 ---
-> **"Coding is not just about writing code; it's about solving problems and creating opportunities."** - *Souvik Mahanta*
+
+<div align="center">
+  
+![Matrix Code](https://raw.githubusercontent.com/souvik03-136/souvik03-136/main/assets/matrix.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsouvik03-136&countColor=%23263759&style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?logo=github&style=flat-square)](https://github.com/souvik03-136)
+  
+</div>
