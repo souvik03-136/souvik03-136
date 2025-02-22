@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack Galaxy
 
 <div align="center">
-  
+
 | **Orbit**          | **Technologies**                                                                                                                                                                                                                      |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**       | <img src="https://skillicons.dev/icons?i=py,go" width="150"> |
@@ -30,7 +30,7 @@
 ## 📊 GitHub Nebula
 
 <div align="center">
-  
+
 [![GitHub 3D Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![3D Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souvik03-136&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -43,9 +43,9 @@
 ## 🌌 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-mahanta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikmahanta2003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikmahanta2003@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view)
 
 </div>
@@ -53,8 +53,8 @@
 ---
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=souvik03-136&color=blue&style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?logo=github&style=flat-square)](https://github.com/souvik03-136)
-  
+
 </div>
