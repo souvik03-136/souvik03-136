@@ -66,8 +66,6 @@
 [![GitHub Skyline](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 [![Language Constellation](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Contribution Graph](https://raw.githubusercontent.com/souvik03-136/souvik03-136/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
