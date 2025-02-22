@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
 ### **AI/ML Arsenal**
@@ -43,6 +44,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bokeh-1F77B4?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ### **DevOps & Cloud**
@@ -73,8 +76,8 @@
 
 <div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/souvik-mahanta)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:souvikmahanta2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/souvik-mahanta)  
+**Email:** [souvikmahanta2003@gmail.com](mailto:souvikmahanta2003@gmail.com)  
 [![Resume](https://img.shields.io/badge/-Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view)
 
 </div>
