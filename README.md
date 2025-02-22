@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/souvik03-136/souvik03-136/main/assets/3d-banner.gif" alt="3D Banner" width="100%">
   
-  <h1 align="center" style="margin: 5px 0">
+  <h1 align="center" style="margin: 8px 0">
     <a href="https://github.com/souvik03-136">
       <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2303F73D&size=40&center=true&vCenter=true&width=450&lines=SOUVIK+MAHANTA;AI%2FML+DEVELOPER;BACKEND+ARCHITECT;SECURITY+ENTHUSIAST" alt="Typing Animation">
     </a>
