@@ -123,36 +123,6 @@ print(me.say_hello())
 
 <br>
 
-## 🚀 **Featured Projects**
-
-<div align="center">
-  <a href="https://github.com/souvik03-136/AI-Security-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 1">
-  </a>
-  <a href="https://github.com/souvik03-136/ML-Healthcare-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 2">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/souvik03-136/Cloud-DevOps-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 3">
-  </a>
-  <a href="https://github.com/souvik03-136/Data-Visualization-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 4">
-  </a>
-</div>
-
-<br>
-
-## 🌊 **My Coding Rhythm**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding Animation" width="70%">
-</div>
-
-<br>
-
 ## 🔮 **Quantum Quote**
 
 <div align="center">
