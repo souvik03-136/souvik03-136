@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:souvikmahanta2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="souvikmahanta2003@gmail.com">
   </a>
   &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view" target="_blank">
@@ -72,7 +72,7 @@ print(me.say_hello())
     </td>
     <td align="center">
       <h3>🔙 Backend Magic</h3>
-      <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express&theme=dark" alt="Backend Frameworks" /><br>
+      <img src="https://skillicons.dev/icons?i=django,flask,fastapi,go&theme=dark" alt="Backend Frameworks" /><br>
     </td>
   </tr>
   <tr>
