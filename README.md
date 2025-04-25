@@ -1,90 +1,165 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/souvik03-136/souvik03-136/main/assets/3d-banner.gif" alt="3D Banner" width="100%">
   
-  <h1 align="center" style="margin: 5px 0">
+  <h1 align="center">
     <a href="https://github.com/souvik03-136">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2303F73D&size=35&center=true&vCenter=true&width=550&lines=SOUVIK+MAHANTA;AI%2FML+DEVELOPER;BACKEND+ARCHITECT;SECURITY+ENTHUSIAST" alt="Typing Animation">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=%2303F73D&size=40&center=true&vCenter=true&width=600&height=70&lines=SOUVIK+MAHANTA;AI%2FML+DEVELOPER;BACKEND+ARCHITECT;SECURITY+ENTHUSIAST" alt="Typing Animation">
     </a>
   </h1>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=🚀+Building+Intelligent+Systems;🔒+Securing+Digital+Frontiers;💻+Crafting+Scalable+Solutions" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=🚀+Building+Intelligent+Systems;🔒+Securing+Digital+Frontiers;💻+Crafting+Scalable+Solutions;🧠+Pioneering+AI+Innovation" alt="Typing Animation">
+  </div>
+  
+  <br>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/souvik-mahanta" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:souvikmahanta2003@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view" target="_blank">
+      <img src="https://img.shields.io/badge/-Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+    </a>
   </div>
 </div>
 
----
+<br>
 
-## 🛠️ **Tech Stack Galaxy**
+<!-- Matrix Code Rain SVG Background -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Transforming%20Ideas%20into%20Intelligent%20Solutions&width=800&height=100" alt="Matrix Banner">
+</div>
+
+<br>
+
+## 🧠 **About Me**
+
+```python
+class SouvikMahanta:
+    def __init__(self):
+        self.role = "AI/ML Developer & Backend Architect"
+        self.languages = ["Python", "Go", "JavaScript", "SQL"]
+        self.expertise = ["Machine Learning", "API Development", "Security", "Cloud Architecture"]
+        self.current_focus = "Building scalable AI systems with robust security foundations"
+        
+    def say_hello(self):
+        return "Thanks for visiting my digital universe! Let's build something extraordinary together."
+
+me = SouvikMahanta()
+print(me.say_hello())
+```
+
+<br>
+
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-### **Core Components**
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</div>
-
-### **Frameworks & Libraries**
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</div>
-
-### **Data Ecosystem**
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</div>
-
-### **AI/ML Arsenal**
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bokeh-1F77B4?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-### **DevOps & Cloud**
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <h3>💻 Core Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,go,js,cpp&theme=dark" alt="Core Languages" /><br>
+    </td>
+    <td align="center">
+      <h3>🔙 Backend Magic</h3>
+      <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express&theme=dark" alt="Backend Frameworks" /><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🧠 AI/ML Powers</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI/ML" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+    </td>
+    <td align="center">
+      <h3>🗃️ Data Dimension</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Databases" /><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github&theme=dark" alt="Cloud & DevOps" /><br>
+    </td>
+    <td align="center">
+      <h3>🔧 Tools & Utilities</h3>
+      <img src="https://skillicons.dev/icons?i=git,vscode,linux,bash&theme=dark" alt="Tools" /><br>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<br>
 
-## 📊 **Code Matrix**
+## 📊 **Cosmic Code Metrics**
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvik03-136&theme=radical" width="100%" alt="GitHub Profile Summary">
+</div>
 
-[![GitHub Skyline](https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-[![Language Constellation](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvik03-136&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical&hide_border=true&langs_count=8" width="43%" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik03-136&theme=redical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
+</div>
+
+<br>
+
+## 🏆 **Achievement Constellation**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souvik03-136&theme=radical&no-frame=true&column=4&row=2" alt="GitHub Trophies">
+</div>
+
+<br>
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+  
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true)](https://github.com/souvik03-136/souvik03-136)
+
+<!-- Add more featured project cards as needed -->
+  
+</div>
+
+<br>
+
+## 🌊 **My Coding Rhythm**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/souvik03-136/souvik03-136/main/assets/3d-banner.gif" alt="Coding Wave" width="70%">
+</div>
+
+<br>
+
+## 🔮 **Quantum Quote**
+
+<div align="center">
+  
+> "I transform complex problems into elegant solutions by combining AI, security, and scalable architecture."
 
 </div>
 
----
+<br>
 
-## 🌐 **Digital Nexus**
-
-<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/souvik-mahanta)  
-**Email:** [souvikmahanta2003@gmail.com](mailto:souvikmahanta2003@gmail.com)  
-[![Resume](https://img.shields.io/badge/-Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000)](https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view)
-
-</div>
-
----
-
-<div align="center" style="margin-top: 20px">
-
-![Visitors](https://komarev.com/ghpvc/?username=souvik03-136&color=00F72D&style=flat-square)
-[![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?color=00F72D&logo=github&style=flat-square)](https://github.com/souvik03-136)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
+  
+  <br>
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=souvik03-136&color=00F72D&style=flat-square)
+  [![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?color=00F72D&logo=github&style=flat-square)](https://github.com/souvik03-136)
+  
+  <sub><sup>Last updated: April 2025</sup></sub>
 </div>
