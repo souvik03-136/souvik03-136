@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:souvikmahanta2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="souvikmahanta2003@gmail.com">
-  </a>
+<a href="mailto:souvikmahanta2003@gmail.com">
+  <img src="https://img.shields.io/badge/-souvikmahanta2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
   &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view" target="_blank">
     <img src="https://img.shields.io/badge/-Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
