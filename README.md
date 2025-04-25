@@ -28,9 +28,9 @@
 
 <br>
 
-<!-- Matrix Code Rain SVG Background -->
+<!-- Custom Banner -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Transforming%20Ideas%20into%20Intelligent%20Solutions&width=800&height=100" alt="Matrix Banner">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F72D,100:4A8AF4&height=120&text=Transforming%20Ideas%20into%20Intelligent%20Solutions&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlignY=55" width="100%" alt="Banner">
 </div>
 
 <br>
@@ -110,7 +110,7 @@ print(me.say_hello())
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical&hide_border=true&langs_count=8" width="43%" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik03-136&theme=redical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik03-136&theme=radical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
 </div>
 
 <br>
@@ -126,11 +126,21 @@ print(me.say_hello())
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true)](https://github.com/souvik03-136/souvik03-136)
+  <a href="https://github.com/souvik03-136/AI-Security-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 1">
+  </a>
+  <a href="https://github.com/souvik03-136/ML-Healthcare-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 2">
+  </a>
+</div>
 
-<!-- Add more featured project cards as needed -->
-  
+<div align="center">
+  <a href="https://github.com/souvik03-136/Cloud-DevOps-Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 3">
+  </a>
+  <a href="https://github.com/souvik03-136/Data-Visualization-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souvik03-136&repo=souvik03-136&theme=radical&hide_border=true" alt="Project 4">
+  </a>
 </div>
 
 <br>
@@ -138,7 +148,7 @@ print(me.say_hello())
 ## 🌊 **My Coding Rhythm**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/souvik03-136/souvik03-136/main/assets/3d-banner.gif" alt="Coding Wave" width="70%">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding Animation" width="70%">
 </div>
 
 <br>
