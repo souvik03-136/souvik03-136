@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;
 <a href="mailto:souvikmahanta2003@gmail.com">
-  <img src="https://img.shields.io/badge/-souvikmahanta2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/-souvikmahanta2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
   &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view" target="_blank">
