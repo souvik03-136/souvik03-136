@@ -1,0 +1,157 @@
+# .github/workflows/learning-tracker.yml
+name: Learning Progress Tracker
+
+on:
+  schedule:
+    # Runs every 3 days at 8:00 AM IST (2:30 AM UTC)
+    - cron: '30 2 */3 * *'
+  workflow_dispatch:
+
+jobs:
+  track-learning:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Git configuration
+        run: |
+          git config --local user.email "souvikmahanta2003@gmail.com"
+          git config --local user.name "Souvik Mahanta"
+          
+      - name: Create learning directories
+        run: |
+          mkdir -p docs/learning-journal
+          mkdir -p docs/tech-insights
+          
+      - name: Generate learning journal entry
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S IST')
+          
+          # Create learning journal entry
+          cat > "docs/learning-journal/learning-${DATE}.md" << EOF
+          # Learning Journal - ${DATE}
+          
+          ## 🎯 Current Learning Focus
+          
+          ### AI/ML Advancement
+          - Exploring transformer architectures and attention mechanisms
+          - Studying reinforcement learning algorithms
+          - Investigating computer vision techniques
+          - Researching natural language processing improvements
+          
+          ### Backend Architecture
+          - Microservices design patterns and best practices
+          - Database optimization and scaling strategies
+          - API design and RESTful service architecture
+          - Performance monitoring and observability
+          
+          ### Security Engineering
+          - Zero-trust security model implementation
+          - Cryptographic protocols and secure communication
+          - Vulnerability assessment and penetration testing
+          - Secure coding practices and code review
+          
+          ### Cloud & DevOps
+          - Container orchestration with Kubernetes
+          - Infrastructure as Code (IaC) principles
+          - CI/CD pipeline optimization
+          - Monitoring and logging best practices
+          
+          ## 📚 Resources Explored
+          - Technical documentation and whitepapers
+          - Open-source project contributions
+          - Industry best practices and standards
+          - Research papers and academic publications
+          
+          ## 💡 Key Insights Gained
+          - Importance of scalable architecture in system design
+          - Security considerations in every development phase
+          - Performance optimization through intelligent caching
+          - Continuous learning as a cornerstone of technical excellence
+          
+          ## 🔄 Next Learning Steps
+          - Deep dive into advanced ML algorithms
+          - Explore edge computing and IoT integration
+          - Study quantum computing fundamentals
+          - Investigate blockchain technology applications
+          
+          ---
+          *Learning session completed: ${TIMESTAMP}*
+          EOF
+          
+      - name: Generate tech insights
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          
+          # Create tech insights file
+          cat > "docs/tech-insights/insights-${DATE}.md" << EOF
+          # Tech Insights - ${DATE}
+          
+          ## 🚀 Innovation Trends
+          - AI/ML integration in enterprise applications
+          - Serverless architecture adoption patterns
+          - Edge computing and distributed systems
+          - Quantum computing breakthrough implications
+          
+          ## 🔧 Development Practices
+          - Test-driven development (TDD) implementation
+          - Code review and quality assurance processes
+          - Automated testing and continuous integration
+          - Documentation-driven development approaches
+          
+          ## 🛡️ Security Considerations
+          - Privacy-preserving machine learning techniques
+          - Secure multi-party computation protocols
+          - Homomorphic encryption applications
+          - Differential privacy in data analysis
+          
+          ## 📊 Performance Optimization
+          - Algorithm complexity analysis and optimization
+          - Memory management and garbage collection
+          - Parallel processing and concurrency patterns
+          - Database indexing and query optimization
+          
+          ---
+          *Generated: $(date '+%Y-%m-%d %H:%M:%S IST')*
+          EOF
+          
+      - name: Update learning progress summary
+        run: |
+          # Count learning entries
+          JOURNAL_COUNT=$(find docs/learning-journal -name "*.md" 2>/dev/null | wc -l)
+          INSIGHTS_COUNT=$(find docs/tech-insights -name "*.md" 2>/dev/null | wc -l)
+          
+          cat > docs/learning-progress-summary.md << EOF
+          # Learning Progress Summary
+          
+          ## 📈 Progress Metrics
+          - Learning journal entries: ${JOURNAL_COUNT}
+          - Tech insights documented: ${INSIGHTS_COUNT}
+          - Total learning sessions: $((JOURNAL_COUNT + INSIGHTS_COUNT))
+          
+          ## 🎯 Learning Consistency
+          - Regular learning sessions maintained
+          - Diverse technology exploration
+          - Continuous skill development
+          - Knowledge documentation practiced
+          
+          ## 🔄 Last Updated
+          $(date '+%Y-%m-%d %H:%M:%S IST')
+          
+          ---
+          *Automated learning progress tracking*
+          EOF
+          
+      - name: Commit learning progress
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No learning progress to commit"
+          else
+            git commit -m "📚 Learning progress update - $(date '+%Y-%m-%d')"
+            git push origin main
+          fi
