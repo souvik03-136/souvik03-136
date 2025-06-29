@@ -133,7 +133,7 @@ print(me.say_hello())
 
 <div align="center">
   
-> "Code is the bridge between imagination and innovation."
+> "Crafting scalable solutions that power tomorrow's digital world."
 
 </div>
 
