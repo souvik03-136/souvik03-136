@@ -133,7 +133,7 @@ print(me.say_hello())
 
 <div align="center">
   
-> "At the intersection of AI and security lies the future of technology."
+> "Pioneering solutions where artificial intelligence meets robust security."
 
 </div>
 
