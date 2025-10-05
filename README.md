@@ -133,7 +133,7 @@ print(me.say_hello())
 
 <div align="center">
   
-> "Pioneering solutions where artificial intelligence meets robust security."
+> "Code is the bridge between imagination and innovation."
 
 </div>
 
