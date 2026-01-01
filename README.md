@@ -147,5 +147,5 @@ print(me.say_hello())
   ![Visitors](https://komarev.com/ghpvc/?username=souvik03-136&color=00F72D&style=flat-square)
   [![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?color=00F72D&logo=github&style=flat-square)](https://github.com/souvik03-136)
   
-  <sub><sup>Last updated: December 2025
+  <sub><sup>Last updated: January 2026
 </div>
