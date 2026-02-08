@@ -133,7 +133,7 @@ print(me.say_hello())
 
 <div align="center">
   
-> "Crafting scalable solutions that power tomorrow's digital world."
+> "Building the future with intelligent systems and secure foundations."
 
 </div>
 
