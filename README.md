@@ -124,7 +124,10 @@ print(me.say_hello())
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souvik03-136&theme=radical&no-frame=true&column=4&row=2&margin-w=8" />
+  <!-- github-trophies.vercel.app is a maintained fork — more reliable than the original -->
+  <img src="https://github-trophies.vercel.app/?username=souvik03-136&theme=radical&no-frame=true&column=4&row=2&margin-w=8" alt="GitHub Trophies" />
+  <!-- Fallback: swap in if the above goes down -->
+  <!-- <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=souvik03-136&theme=radical&no-frame=true&column=4&row=2&margin-w=8" /> -->
 </div>
 
 ---
