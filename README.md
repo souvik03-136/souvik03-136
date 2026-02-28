@@ -20,6 +20,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://souvikmahanta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://drive.google.com/file/d/1TT8yKIxCNr94h_04dBTR-mwi1HHLEt-K/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
