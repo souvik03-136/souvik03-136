@@ -144,7 +144,7 @@ print(me.say_hello())
 
 <div align="center">
 
-> "Pioneering solutions where artificial intelligence meets robust security."
+> "Crafting scalable solutions that power tomorrow's digital world."
 
 </div>
 
