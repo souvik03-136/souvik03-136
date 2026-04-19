@@ -144,7 +144,7 @@ print(me.say_hello())
 
 <div align="center">
 
-> "Crafting scalable solutions that power tomorrow's digital world."
+> "Every line of code is a step toward a more intelligent world."
 
 </div>
 
