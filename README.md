@@ -144,7 +144,7 @@ print(me.say_hello())
 
 <div align="center">
 
-> "Building the future with intelligent systems and secure foundations."
+> "Code is the bridge between imagination and innovation."
 
 </div>
 
