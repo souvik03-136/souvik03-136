@@ -144,7 +144,7 @@ print(me.say_hello())
 
 <div align="center">
 
-> "Every line of code is a step toward a more intelligent world."
+> "At the intersection of AI and security lies the future of technology."
 
 </div>
 
