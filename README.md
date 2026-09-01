@@ -164,5 +164,5 @@ print(me.say_hello())
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A8AF4,100:00F72D&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&fontAlignY=75" alt="footer"/>
 
 <div align="center">
-  <sub>Last updated: August 2026
+  <sub>Last updated: September 2026
 </div>
